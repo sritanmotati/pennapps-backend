@@ -1,5 +1,4 @@
 Flask==2.3.3
 transformers==4.33.1
 tensorflow==2.13.0
-gunicorn
-cerebras_cloud_sdk
+gunicorn==21.2.0

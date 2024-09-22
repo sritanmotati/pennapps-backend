@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import string
-import json
 
 cleaned_string = lambda s: ''.join(filter(lambda x: x in set(string.printable), s))
 

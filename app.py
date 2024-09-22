@@ -107,7 +107,7 @@ def get_competitors(business_id):
 def yelp(url):
     # url should just everything after '/biz' in a yelp url
     start_time = time.time()
-    business = async_scrape(url.replace('"', ''), 3)
+    business = async_scrape(url.replace('"', ''), 2)
     review_sum, review_count = 0, 0
     low_elite = (6, '')
     high_elite = (-1, '')

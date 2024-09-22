@@ -6,13 +6,15 @@ import requests
 
 # load_dotenv()
 
+from async_scraper import async_scrape
+
 app = Flask(__name__)
 
 sentiment_pipeline = pipeline("sentiment-analysis")
 
 @app.route('/')
 def hello_world():
-    return 'Hey from Flask!'
+    return 'Welcome to mtrx!'
 
 @app.route('/sentiment/text=<text>')
 def sentiment_analysis(text):
@@ -71,6 +73,10 @@ def cerebras(prompt):
     }
     response = requests.post(url, headers=headers, json=data)
     return response.json()["choices"][0]["message"]["content"]
+
+@app.route('/yelp/url=<url>')
+def yelp(url):
+    return async_scrape(url.replace('"', ''), 5)
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)

@@ -1,0 +1,363 @@
+{
+    "business_name": "Standard Tap",
+    "business_cost": "$$",
+    "business_rating": 3.9,
+    "business_tags": [
+        "Burgers",
+        "Gastropubs"
+    ],
+    "business_description": "Standard Tap features locally-brewed draft beer.  Our food menu both complements the beer and expands the notion of what tavern food can be.  We use only the best available produce, poultry, meats and seafood -- much of it from area farms and local vendors - to create fresh, seasonal dishes.\n\nOur full dinner menu is available from 4 pm to 1 am, seven days a week.  Lunch is served Mon. - Fri. 11 am to 4 pm. Brunch is served Sat. & Sun. from 11 am to 3 pm.\n\nWine and liquor also available.\n\nHappy Hour: Monday - Friday 4pm-6pm \n            half price drafts from featured brewery!\n                       $6. specialty cocktails and house wine\n                                 $6. small plates",
+    "business_address": "901 N 2nd St Philadelphia, PA 19123",
+    "business_reviews": [
+        {
+            "reviewer_id": "mx0zuEdsGrQnCd8UrkRtiA",
+            "review_rating": 5.0,
+            "review_date": "Sep 6, 2024",
+            "review_content": "Went for brunch and the food was awesome! I loved the atmosphere that they had upstairs. So welcoming and the vibes were great.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "mzqPJwcgwzVRLdMt6ZQpbg",
+            "review_rating": 5.0,
+            "review_date": "Jul 28, 2024",
+            "review_content": "I had been calling for a few weeks to find info on soft shell crabs. They asked for my phone # and they would call when they come in. The Chef actually called me to let me know when they were coming in. We went in and the best ever soft crab sandwich was had. Our thanks to the Chef (so sorry I can't remember his name ) just the fact he called me was astonishing !We thank you Chef for a great meal and service . Also, wait staff girl should receive a raise , perfect Thanks again Frank",
+            "elite": false
+        },
+        {
+            "reviewer_id": "V4aECWTP3p1dmF4SWXKHHA",
+            "review_rating": 4.0,
+            "review_date": "Jun 23, 2024",
+            "review_content": "It was a last minute selection and it did not disappoint! Service was superb, food was delicious and it was super cute and quaint",
+            "elite": false
+        },
+        {
+            "reviewer_id": "cOFHZIGFMVzOObIsBguAtA",
+            "review_rating": 2.0,
+            "review_date": "Jun 19, 2024",
+            "review_content": "Nice place . To protective . Stop serve me because he thought I had too much.   I know when I have had too much !  Thanks. Never again.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "-AUq4jmllsuf8n1mGfrpBg",
+            "review_rating": 4.0,
+            "review_date": "Jun 17, 2024",
+            "review_content": "Potato croquettes were amazing, but we only got 3 for $11. Wife got the steak and fries. Great flavor, but steak was a little tough. I got the scallops - AMAZING. Great drink selection, great service, and the terrace was very nice. We felt like it was a little pricey for what we got, but I'd go back.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "ms7WK36eFT2zOGu7pRAMtQ",
+            "review_rating": 4.0,
+            "review_date": "May 15, 2024",
+            "review_content": "Service was amazing. Great bartenders. Great beer selection. Only complaint was it was pricey for the portions of food, but the food was very good. Planning on coming back cause of the staff, alone!",
+            "elite": false
+        },
+        {
+            "reviewer_id": "WEiGES3qaVGs2t7Ny45qlg",
+            "review_rating": 4.0,
+            "review_date": "May 11, 2024",
+            "review_content": "Food was great overall! I just think they really short you on the amount of food for the price that you're paying. For example the burger came with no side and the croquettes came with 3 total. Mussels were large in size physically; but the garlic wine sauce it came in unfortunately did not leave us asking for more bread. Drinks were fantastic. Food was flavored well and staff were kind! Ambiance was also cozy.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "_fSanIFCc_XEVIRpRFr0QQ",
+            "review_rating": 3.0,
+            "review_date": "Apr 3, 2024",
+            "review_content": "i used to come here like 20 years ago and the food was really good back then and so was the beer selection and prices. Some things  have remained positive some have not. I mean yes it's nice inside, it's clean, plenty of seating on 2 floors well lit not too loud and good layout. the staff is friendly and not too pushy. They have a nice selection of beers on top and cocktails and wines, but I guess as this neighborhood exploded in real estate value they decided to crank up prices and lower the quality of a lot of items. If your coming here to drink i guess it's whatever the only problem is the prices I mean they don't have a single regular affordable for the local beer or wine really everything beer starts around 750 it doesn't come in an especially big cup I mean it's good but u guys got 30 beers would it kill u to get a local yuengling or something that u can push out for $4-5 and make the same massive profit as every other bar in town. I mean u feel like it's trying to be too much like monks in rotten house and the food or beer selection is nowhere even close to it. now getting to the food i used to come here get a burger and be full. this time i ordered a burger, lamb meatballs, and a soup thing. i mean the burger is tiny, i ordered it medium rare it came well done no pink and like it's so small it's insane plus u get nothing with it except a pickle slice and there are already pickles on the burger.  no fries no lettuce or tomato no nothing except a tiny sad little burger on a plate for $15. the lamb meatballs better presentation but with melted cheese on top 2 purple vegetables laid on top and nothing else just the protein.  in a town with some many food options this is a disappointing decay of a once great neighborhood spot.  i am sure they still do a ton of business but i beta it's just the yuppy rich kids of northern liberties no locals no mo. if that's what u were trying to accomplish job well done i will unlikely ever return. wish i could've gave 2.5 stars but i do admit my overpriced orange beer was pretty good.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "1K1oEWTmtsRqPbXA8Foz2w",
+            "review_rating": 4.0,
+            "review_date": "Mar 24, 2024",
+            "review_content": "Popped in for a few drinks after having dinner a few blocks down. Super cool decor and fun specialty cocktails. It was crowded on a Saturday night with people playing pool and people at the upstairs and downstairs bars. We typically go to the upstairs bar and were able to get a couple stools up there. We had to wait a bit for service, but it was as expected on a busy night. A cool place to go for happy hour and the food looked good too.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "6xw_Q6eSD-3Ls5sfYit1NQ",
+            "review_rating": 2.0,
+            "review_date": "Feb 9, 2024",
+            "review_content": "Cool spot for beers in a great location, but I'd never eat here again.Went here for restaurant week- most of the short rib was inedible on account of it just being fat. We left hungry because of the small portions and the food not being worth finishing.  If you told me the cocktails were watered down I'd believe you. Save the money you're going to spend on alcohol here and just buy a bottle at a state store. You'll be better served. Speaking of service there wasn't very much.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "u1Bd6O9duBOp3SUHN2vjPA",
+            "review_rating": 5.0,
+            "review_date": "Feb 7, 2024",
+            "review_content": "We went here for restaurant week and it was nice. I wouldn't have came to this part of Philly if I didn't hear about North Liberties restaurant week. The location is good but parking is rare even on a Tuesday evening. This place is a 5 minute walk from Spring Garden train station and there are buses nearby. The best part of my meal was the $35 3 drink pairing. The olive drink, red wine, and artichoke drinks were very strong The octopus salad was tasty and the octopus didn't have a weird texture. I don't like beets but I like how they mixed cashews in the beet salad. It was nice to try the spare rib and parsnip mash but I wouldn't order it again. The crab risotto was so good! And the chocolate cremeux tasted like a fancy chocolate pudding. It wasn't that crowded so the servers were more attentive and present. There's a pool table and we couldn't go upstairs but the downstairs area was ok even with us sitting near the door.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "5kcLlhJPLJL_GLwrAdbZAA",
+            "review_rating": 5.0,
+            "review_date": "Jan 17, 2024",
+            "review_content": "I'm not sure why I've never been here before, but I'm glad I finally went! I wanted to see what all of the praise was all about with their Chicken Pie. That praise... is so very well deserved! It is, hands down, the best chicken pot pie I've had in Philadelphia. There are a lot of bad pot pies in the world. This one will make you never want to eat those other pies ever again. The chicken, onions, and veggies inside are slow-cooked to perfection. The crust is out of this world flaky good and very artistically presented. It's a huge meal by itself. If you're into homemade beers, Standard Tap has you covered. I will definitely return!",
+            "elite": true
+        },
+        {
+            "reviewer_id": "0K_VEmwFt0DbpjWjQjGrQA",
+            "review_rating": 4.0,
+            "review_date": "Jan 15, 2024",
+            "review_content": "Rating again. I want to start off that we still love this place and will always come back because the food is fantastic.  This Sunday we came for brunch and the menu looked the same as normal so I asked for the brunch menu and they said it was incorporated through the whole menu...so when I ordered the chicken pot pie it usually comes on a bed of salad which makes the dish imo.  During brunch hours the chicken pie was served on a bed of grits with an egg on top, it was good but just not what I wanted/expected nor was it listed on the menu.  Their menu is a rotating list so they are constantly printing new menus, it would be helpful to have an actual brunch menu if parts of the item is changing.  I can't see this being that challenging to implement.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "bmYRfnvxXBdA4TahJCw7eA",
+            "review_rating": 4.0,
+            "review_date": "Jan 7, 2024",
+            "review_content": "The food, drinks and service were great! Visited Standard Tap for a Ladies Night out and we all had a fabulous time! Happy hour drinks were great as well",
+            "elite": false
+        },
+        {
+            "reviewer_id": "b7_lSzpHtEDTAFfvwkMLeQ",
+            "review_rating": 5.0,
+            "review_date": "Dec 3, 2023",
+            "review_content": "My local favorite bar. It's always our go to. They have happy hour till 7 some nights (unsure if it's just M-F) and they have great deals with drinks and food. Apps for $6 which can be small but worth it! My favorite dishes are the meatloaf, fish n chips, chicken pot pie and burger. Very comfort food. Ambiance and service are always on point.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "s_lBxHlJKXnfhVPxcGlxVw",
+            "review_rating": 5.0,
+            "review_date": "Nov 8, 2023",
+            "review_content": "Very good food and service, nice choice of rooms from bar to pleasant outdoor patio on balcony, hip vibe. I'll be back!",
+            "elite": false
+        },
+        {
+            "reviewer_id": "AsSP1JE6E-Pc1qz4L9o1kw",
+            "review_rating": 1.0,
+            "review_date": "Oct 9, 2023",
+            "review_content": "Scallops were insanely overseasoned. Turns out it's because they were off and gave me severe food poisoning. My friends food didt even taste like it had salt and pepper, he didn't touch it. Save yourself and your money, do not eat here!",
+            "elite": false
+        },
+        {
+            "reviewer_id": "WDzROBb6NCZt8JqXvZM6qQ",
+            "review_rating": 1.0,
+            "review_date": "Jul 1, 2023",
+            "review_content": "my wife and I visited standard tap on Friday evening 30th of June 2023. We have been big fans of the restaurant for many years but haven't been since last year. We sat on the upstairs deck; the ambiance was nice. However, the service and the food were abysmal. it's been a long drop for the standard tap from its former glory days of innovative cuisine and high quality beer selection. The waiter's affect was flat, he provided limited information and was in general marginally helpful with the beer menu, which has fallen considerably in quality over time. As for the dinner, my sandwich was disgustingly greasy and fat-laden. The waiter had billed it as \"the best pulled pork sandwich in the city.\" Hmmmm. My wife had a large salad with a side of potatoes. The salad looked and tasted like it could have come from Bennigan's or TGI Fridays. The potatoes were overwhelmed by the bacon they were apparently cooked in. Needless to say, we will not be going back until we hear of changes at the helm of this once great gastropub.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "8rkEXp7BfaU7vTD2QQuYtQ",
+            "review_rating": 5.0,
+            "review_date": "Jun 2, 2023",
+            "review_content": "Good was delicious ! Menu variety was great. Drinks were also top tier. They have happy hour specials on drinks and food. We sat on their outside patio and it was a lovely day!",
+            "elite": false
+        },
+        {
+            "reviewer_id": "lHVeYYS_gyIO-fMAY5Z7aQ",
+            "review_rating": 5.0,
+            "review_date": "Apr 6, 2023",
+            "review_content": "My wife and I came here for dinner last week and I am finally having the time to write this review but we were very pleased. The atmosphere is so cozy and everyone that works there is very friendly. Our bartender mike went out of his way to make our drinks with care and i wasn't expecting such professionalism from what I thought was going to be a beer bar. We split a couple of things and have been here before over the years but it seems our experience keeps getting better and better each time.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "_N8kvjHWS60R6xjhs0em9A",
+            "review_rating": 4.0,
+            "review_date": "Jan 9, 2023",
+            "review_content": "Visited here for lunch on a Sunday.  Pub style relaxing atmosphere. Good service, our server was very attentive without being smothering. I had the occutpus as my starter,  the best octopus I ever had, DELICIOUS! For our entrees he had the mussels and I had the bunless fish sandwich comes with fries. The fries were delicious,  rhe fish sandwich was a little to crispy/ extra well done for my taste. We also ordered desserts, both were good...just enough.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "bpLlNXkt1nN0TvLGJroWZw",
+            "review_rating": 5.0,
+            "review_date": "Jan 1, 2023",
+            "review_content": "Enjoying the people here too ... Thank you for a great night ... enjoyed the fireplace ... Bartendar so attentive and host friendly suggesting to go upstairs",
+            "elite": false
+        },
+        {
+            "reviewer_id": "Es32-yeNUoE1A__TLDGWlg",
+            "review_rating": 5.0,
+            "review_date": "Dec 30, 2022",
+            "review_content": "I love this place. The building and vibe is unique. Staff is friendly. The food is pub fare with an upscale twist. I recently ate here with a large group and the waiter took all our complex orders by memory and everything came out perfect. Everyone was really happy. There are a lot of good options in the area but standard tap is definitely near the top for me.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "nw0UWlg-Tzl6lh2tgzWGNQ",
+            "review_rating": 5.0,
+            "review_date": "Dec 7, 2022",
+            "review_content": "Greetings and salutations yelpers. On a recent visit to NJ we heading over to Philly for brunch. What a find this was.Upon entering greeted warmly. Our waitress was awesome.  Offered great recommendations, constantly smiling and all around pleasant.As for the drinks, my party was not disappointed. At first I ordered a cosmo it was ok. However when I sampled the monarch, I was hooked. It assaulted all your tastebuds deliciously. As my group are foodies, we ordered almost everything from the menu. Food was bit salty but not enough not to enjoy. Octopus was good, however a combo bite of octopus, arugula artichoke and anchovies was delicious.Seared scallops yummy however the quince was a surprise treat. First time having and I was hooked.Pork belly prepared perfectly.Duck hash was ok wasnt my favorite. Shrimp n Grits equally delicious.For dessert flourless fudge brownie freaking amazing worth every bit of calorie ingested.If in the area definitely worth checking out.Until we eat again..Caio!",
+            "elite": true
+        },
+        {
+            "reviewer_id": "C3BpK-0Ru4bZEcTB5NbBUg",
+            "review_rating": 2.0,
+            "review_date": "Nov 13, 2022",
+            "review_content": "Carrot soup was a very unappetizing shade of brown. And the flavor was not very good either. String French fries came out cold and soggy. Good beer menu and it was nice sitting on the outside deck but the food is subpar.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "hQJtQwENDLqE4ndu3LeS_Q",
+            "review_rating": 5.0,
+            "review_date": "Sep 21, 2022",
+            "review_content": "Absolutely the best bar in philly. Get the octopus and the chicken pot pie. All the beers and cocktails are amazing",
+            "elite": false
+        },
+        {
+            "reviewer_id": "ti4vAkpBUxzYuCAd3tnhjg",
+            "review_rating": 5.0,
+            "review_date": "Sep 16, 2022",
+            "review_content": "Near perfection! Four adults and a toddler were well cared for by staff and the food was incredible! Each one of us remarked more than once how one or another element of our meals was outstanding. One person said, \"Honestly, this is the best salad I've ever eaten!,\" and she's dined around the world. Two were used to the gamut--fine food to street food in California, Japan, various European countries--and were quite impressed.  Go and enjoy! Only one item had a minor criticism: an order of fries to share (especially with the toddler) was over salted. A little minus on an otherwise A++ e",
+            "elite": false
+        },
+        {
+            "reviewer_id": "tKwOhdAccROXdBchcsRYHQ",
+            "review_rating": 1.0,
+            "review_date": "Aug 26, 2022",
+            "review_content": "Horrible service. Waitress service was brutal. Could not have been worse. Immediately Regretted sitting down.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "vHVQC7ZrW7cY4mZQELJ0yw",
+            "review_rating": 5.0,
+            "review_date": "Aug 12, 2022",
+            "review_content": "I'm here almost every Sunday enjoying oysters and brews! Everything on the menu is fresh and delicious!",
+            "elite": false
+        },
+        {
+            "reviewer_id": "GCgBvm0T1fZINcp1myOKoA",
+            "review_rating": 3.0,
+            "review_date": "Jul 10, 2022",
+            "review_content": "Sat on the beautiful porch on a hot summer day for brunch. The ambience cannot be beat. Unfortunately, was surprised at how lacking the service was for our meal.We ordered oysters for the table. They arrived very cold in a tray of ice. As we ate them, the ice quickly melted. When the waitress retrieved the tray, the oyster melted ice water splashed all over our table, making a significant puddle. For the rest of the meal, the waitress did not wipe the table down. We eventually asked for napkins and did it ourselves. The oyster water dripped into our coffees and cups of water, she did not offer to replace them.The oysters themselves were beautiful. We ordered the Dutch baby pancake and the frittula (pulled pork) omelette and enjoyed both.If the service had been good, this would have easily been a 5 star brunch.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "qL23QCacF2u-rmL_WTVQjA",
+            "review_rating": 3.0,
+            "review_date": "Jun 5, 2022",
+            "review_content": "I adored this place when it opened (20 years ago) and still like it for a drink and some clams. But the entrees have been lackluster for the last few years and the prices very high relative to quality. I've tried most of the entrees and have yet to find something worth returning for- which is disappointing because I live close by. I really do love their takeaway froses tho!",
+            "elite": true
+        },
+        {
+            "reviewer_id": "Z1hILeWGTZOFBFLIJ1qibA",
+            "review_rating": 5.0,
+            "review_date": "Apr 18, 2022",
+            "review_content": "Hands down one of the best upscale pubs in Philly. I used to live in the neighborhood and this was a go-to. Solid selection of beers and wine; solid mixed drinks; food is great. Can sometimes be meat-heavy, but there's always a few vegetarian and/or pescatarian options. There standards have even held up through the pandemic (not easy to do).",
+            "elite": false
+        },
+        {
+            "reviewer_id": "6eWdHs-g3p3nR--8Gr9o9A",
+            "review_rating": 1.0,
+            "review_date": "Feb 27, 2022",
+            "review_content": "Food was unimpressive, service was okay, having a drafty table right by the door to the outside patio showed a lack of simple consideration for your \"guests\", yes, as a former chef and restaurant owner, I see my clientele as guests and wouldn't treat anyone like that, let alone my guests. Very uncomfortable. Note: They were out of two of the things I ordered, but didn't inform me until we ordered. Understaffed, uncomfortable table, marginal service, and meh food. Yeah, I would rather go to a place where they actually treated their guests with a degree of value. Later Standard Tap. Much later.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "jnUg4gNgg4IR0Zikozk4qA",
+            "review_rating": 3.0,
+            "review_date": "Feb 11, 2022",
+            "review_content": "Saw this on Dinner Drive-Inn and Drives so I decided to check it out and the best food we had was the crab pretzel. Tried the chicken pie, it was a bit too dry for me. Also dried the antelope sirloin with couscous was too salty for me. The sirloin was very tasty.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "xORZ9K5yCCh6HBVfdXgYiw",
+            "review_rating": 4.0,
+            "review_date": "Feb 1, 2022",
+            "review_content": "Friendly service, good food, and great drinks are a winning combination at this local gastropub.  The stuffed clam appetizer and the chicken pie loaded with chicken and veggies in a puff pastry hit the spot on a cold winter night. The beer list was impressive and our waitress was knowledgeable and helpful navigating it.  Would definitely come back.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "EbzIOck2feoZrGxRjyPDyw",
+            "review_rating": 5.0,
+            "review_date": "Dec 13, 2021",
+            "review_content": "I been here a lot lately, for some reason. Probably because I love oysters and beer and good atmosphere and great playlists.Seriously. Every time I'm here they're doing this 80s post-disco/RnB vibe. Is the music I've unironically loved my entire life making a comeback, with optional irony? At Standard Tap, it is.They have a rotating selection of oysters, all of them curated and fresh. Never had a bad one here, and I've had at least 40 by now.Beer selection is befitting of a spot called Standard Tap.Overall, one of my favorite spots in No Libs.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "qPCaHNNtYs_or8ZFAAyp_g",
+            "review_rating": 5.0,
+            "review_date": "Oct 9, 2021",
+            "review_content": "Good place to eat. The people here are very friendly and it's a cool atmosphere at night. I like this place. And they have a pop table.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "YLc7Djf3GsC8IT84YkZMzw",
+            "review_rating": 2.0,
+            "review_date": "Sep 19, 2021",
+            "review_content": "Wahappen?? Haven't been in like 3 years and just went for a group dinner. The cheese plate was a joke. And literally every dish was disappointing - like nearly diner food quality. This place used to be really good. Not anymore.Cocktails were still good.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "x2Fh0lU31-WsEnhMyXhjcg",
+            "review_rating": 1.0,
+            "review_date": "Sep 18, 2021",
+            "review_content": "Waited 45 minutes for this cheese board. It cost twenty five dollars. Bad real bad dawg",
+            "elite": false
+        },
+        {
+            "reviewer_id": "-HN9yT11JErG0AFbzpbUpA",
+            "review_rating": 5.0,
+            "review_date": "Sep 16, 2021",
+            "review_content": "Brought a few girls here for brunch after a bachelorette party and we loved it! Porch seating was great, loved the balcony of plants and flowers. The inside decor is very eclectic and cool. The food was Amazing!! I recommend the Standard egg :)Can't wait to visit again in the future. Staff was very friendly and accommodating.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "MJZsgZpuvhGQxR_I10ppoQ",
+            "review_rating": 5.0,
+            "review_date": "Aug 13, 2021",
+            "review_content": "The burger was a good burger but it wasn't the star of the show, the star was the roasted pork sandwich. The reason why foodies like to explore different restaurants is to find dishes/foods that will occasionally launch your palate into epicurean nirvana, the roasted pork sandwich is one of those experiences. This sandwich is easily one of the foods that will be a \"must have\" if I'm ever back on the east coast.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "F46cXzAQhoSMHLMQ8fbMTA",
+            "review_rating": 2.0,
+            "review_date": "Jul 25, 2021",
+            "review_content": "My family and I were on the hunt for outside seating and we happened upon this bar. The bar was out of many of the menu items and we were disappointed. We settled on the $25 cheese plate as an appetizer. The menu does not list the type of cheeses but that the dish comes with three options. When we inquired about the options, the waiter told us they were out of the usual third option but that we would get extra of the two available. We only received two small pieces of both. For $25, we brought our concerns to the attention of our waiter. He was condescending and not accommodating. We ordered four meals including the fish sandwich, and the omelet, both of which were drenched in oil.  The drinks were good and perhaps they should stick to that.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "HI8QwhpeP_ZRY5JZy11VDw",
+            "review_rating": 3.0,
+            "review_date": "Jul 24, 2021",
+            "review_content": "We were just looking for a quick bite and decided to stop in.  When we were seated the table we got was incredibly sticky; like old frat house basement sticky. We had someone's order brought to our table that wasn't ours. The burger was ok. Not anything special and it took 50 minutes to come out. We also got the pickle platter which was 5$ and not worth it; the pickled carrots on the platter were gross and soggy. The service was good and our waiter was nice but I would probably not go back for the food.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "1IFmYXHFQwewawjtaoyBGQ",
+            "review_rating": 5.0,
+            "review_date": "Jul 23, 2021",
+            "review_content": "I have admired Standard Tap from a distance for a while and had it on my Yelp bucket list. The food is delicious and I love the vibe! We were going to a show at the Punchline and the Standard Tap was the perfect spot to grab dinner. I ordered their house rose, which was a decent pour. I enjoyed my Kentucky BBQ Chicken sandwich, and my boyfriend liked the Fried Bluefish sandwich. We sat on the upper porch and it was so cute and cozy. I did not realize how large the whole restaurant is! It would make for great event space. Last but not least, our server, William, was awesome. He gave great recommendations and checked on us several times. Can't wait to visit again the next time I'm in the area!",
+            "elite": true
+        },
+        {
+            "reviewer_id": "_b7sWPWtHFHMrIaq_4PCHQ",
+            "review_rating": 3.0,
+            "review_date": "Jun 18, 2021",
+            "review_content": "Always heard great things about the standard burger--did take out once for it and dine in once. Definitely worth the hype. Just a warning it doesn't come with fries, you have to order the other half of the staple pair separately as a side. The waitress we had was what knocked off a star. We wanted to grab a burger and a drink as a late celebration of my birthday but the waitress we had was less than accommodating. We wanted a cider as we're not huge fans of beer. There wasn't one for this time but 'next up' and so we thought okay we'll get the frose. She comes back and tells us it's tanked. My friend asked her of suggestions of anything fruity as a cocktail or wine and she basically told us there was absolutely nothing. We were so turned off from her response we just decided to stick with water. It really tainted our mood and get together.Also beware the triangle outdoor seating gets hot if it's a warm day. It was made more so for outdoor seating in the winter than for nice weather.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "jEcSGHkE31zEGt7p_8Mbkw",
+            "review_rating": 3.0,
+            "review_date": "Jun 3, 2021",
+            "review_content": "I've not been here in quite awhile but was glad to be back. Due to Covid, a reservation is now needed and time is limited to 90 minutes. We were meeting friends we hadn't seen in a year so the time limit made it rushed. It was cold and rainy the day we were there. With both doors open downstairs it was uncomfortably chilly. The food was good. It's definitely high quality ingredients. The French toast slices were huge. It was cooked well. I asked for the accompaniments on the side. It unfortunately came smothered in confectioners sugar which I had to wipe off. It was also disappointing to get a tablespoon of apples for two large pieces of French toast . If serving fruit, it should be enough to eat with the whole entree. Many restaurants are very stingy with fruit. The egg, Canadien bacon and cheese Sammie was excellent. The eggs were cooked perfectly with a little softness in the yolk. The bun was also good. The ratios were good too. Duck eggs are used. They are very good.The brunch menu is rather small.",
+            "elite": true
+        },
+        {
+            "reviewer_id": "pAcXzNJEGK2wanZDJv4csw",
+            "review_rating": 1.0,
+            "review_date": "May 30, 2021",
+            "review_content": "I write this with a heavy heart. Standard Tap was one of the first dining experiences I had in Philly, and immediately fell in love. Today was such a let down. Although I must admit that the last two visits weren't great, I was giving them the excuse of covid. Stop in and only one large plate is available on the menu from the original 5. Cocktails aren't available on the menu. Etc etc. Wrong beer brought to table. Ordered the cheese plate to make it quick. Who does a cheese plate with 1 type of cheese? Just sad all around.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "0KNVIKW-ViopygwaexZcmA",
+            "review_rating": 1.0,
+            "review_date": "May 30, 2021",
+            "review_content": "What used to be the best place in the northern liberties has officially gone to hell. 4/5 plates not available.  Cheese plate is three pieces of disappointment.  Got the wrong beer, no one checks on you though. Table is sticky. Disgusting. This is bad management. Don't blame the virus. His is the last time I'll be here. Will be spending my money other places in Philly.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "anrqbAggXHVwRjy736o3Wg",
+            "review_rating": 2.0,
+            "review_date": "Apr 28, 2021",
+            "review_content": "We didn't enjoy our meal. Scallops were extremely salty. Side salad was for some reason spicy. Burgers didn't have any complexity of flavor beyond the burger flavor. Buns seemed buttered or oiled (burger meat already has enough fat), it was overkill. Overall, meals were very heavy. We won't be coming back. Also took over an hour for our food to come (Wednesday night). Our server was great though.",
+            "elite": false
+        },
+        {
+            "reviewer_id": "modbeam24iJy9rWmF4awFQ",
+            "review_rating": 2.0,
+            "review_date": "Apr 11, 2021",
+            "review_content": "Came in on a Saturday afternoon and was seated immediately. The waitress was kind but they were not serving a lunch restaurant week menu and also were not serving a lot of items from their menu. The food took an hour to be served and there was not a lot of customers at the time. The sandwich was the only good part of my visit, but I had to pay $5 for a side of fries. The waitress disappeared for about 20 minutes until we finally asked another waitress for a check. The fries were also low quality and there was a constant banging noise on the wall coming from the kitchen.There are better choices for lunch in northern liberties.",
+            "elite": false
+        }
+    ]
+}

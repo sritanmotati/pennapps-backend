@@ -14,12 +14,30 @@ def async_scrape(url: string, pages: int) -> dict:
     business_info = {}
 
     header = soup.select_one('h1').find_parent('div').find_parent('div')
-    business_info['business_name'] = cleaned_string(header.find('h1').text)
-    business_info['business_cost'] = '$' * header.text.count('$')
-    business_info['business_rating'] = float(cleaned_string(header.find('div').next_sibling.find('div').next_sibling.find('span').text))
-    business_info['business_tags'] = cleaned_string(header.find('div').find_next_siblings('span')[2].text).split(', ')
-    business_info['business_description'] = cleaned_string(soup.find('section', {'aria-label': 'About the Business'}).find_all('p')[-1].text)
-    business_info['business_address'] = cleaned_string(soup.select_one('a:-soup-contains("Get Directions")').find_parent('p').find_next_sibling('p').text)
+    try:
+        business_info['business_name'] = cleaned_string(header.find('h1').text)
+    except:
+        business_info['business_name'] = None
+    try:
+        business_info['business_cost'] = '$' * header.text.count('$')
+    except:
+        business_info['business_cost'] = None
+    try:
+        business_info['business_rating'] = float(cleaned_string(header.find('div').next_sibling.find('div').next_sibling.find('span').text))
+    except:
+        business_info['business_rating'] = None
+    try:
+        business_info['business_tags'] = cleaned_string(header.find('div').find_next_siblings('span')[2].text).split(', ')
+    except:
+        business_info['business_tags'] = None
+    try:
+        business_info['business_description'] = cleaned_string(soup.find('section', {'aria-label': 'About the Business'}).find_all('p')[-1].text)
+    except:
+        business_info['business_description'] = None
+    try:
+        business_info['business_address'] = cleaned_string(soup.select_one('a:-soup-contains("Get Directions")').find_parent('p').find_next_sibling('p').text)
+    except:
+        business_info['business_address'] = None
     business_info['business_reviews'] = []
 
     num_pages = tuple(map(int, cleaned_string(soup.find('div', {'aria-label': 'Pagination navigation'}).find('div').next_sibling.text).split(' of ')))
@@ -47,6 +65,6 @@ def async_scrape(url: string, pages: int) -> dict:
                 review_data['elite'] = False
             business_info['business_reviews'].append(review_data)
         
-    with open('async_business.json', 'w') as json_file:
-        json.dump(business_info, json_file, indent=4)
+    # with open('async_business.json', 'w') as json_file:
+    #     json.dump(business_info, json_file, indent=4)
     return business_info

@@ -89,11 +89,11 @@ with open("business_data.json") as f:
             
             review_sum += review["review_rating"]
             review_count += 1
-            # if review["elite"]:
-            #     if review["review_rating"] <= low_elite[0] and len(review["review_content"]) > len(low_elite[1]):
-            #         low_elite = (review["review_rating"], review["review_content"])
-            #     if review["review_rating"] >= high_elite[0] and len(review["review_content"]) > len(high_elite[1]):
-            #         high_elite = (review["review_rating"], review["review_content"])
+            if review["elite"]:
+                if review["review_rating"] <= low_elite[0] and len(review["review_content"]) > len(low_elite[1]):
+                    low_elite = (review["review_rating"], review["review_content"])
+                if review["review_rating"] >= high_elite[0] and len(review["review_content"]) > len(high_elite[1]):
+                    high_elite = (review["review_rating"], review["review_content"])
         avg_rating = review_sum / review_count
         
         for month in monthly_avg_rating:

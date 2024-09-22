@@ -6,6 +6,7 @@ import os
 import requests
 import firebase_admin
 from firebase_admin import credentials, firestore
+import time
 
 cred = credentials.Certificate("firebaseServiceKey.json")
 firebase_admin.initialize_app(cred)
@@ -105,7 +106,8 @@ def get_competitors(business_id):
 @app.route('/yelp/url=<url>')
 def yelp(url):
     # url should just everything after '/biz' in a yelp url
-    business = async_scrape(url.replace('"', ''), 5)
+    start_time = time.time()
+    business = async_scrape(url.replace('"', ''), 3)
     review_sum, review_count = 0, 0
     low_elite = (6, '')
     high_elite = (-1, '')
@@ -251,6 +253,9 @@ def yelp(url):
     document["monthly_nps"] = monthly_nps
     
     db.collection("businesses").add(document)
+    
+    print(f"Time taken: {time.time() - start_time}")
+    print(review_count, "reviews")
     
     return document
 

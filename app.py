@@ -3,10 +3,13 @@ from flask import Flask
 import tqdm
 from transformers import pipeline
 import os
+from dotenv import load_dotenv
 import requests
 import firebase_admin
 from firebase_admin import credentials, firestore
 import time
+
+load_dotenv()
 
 cred = credentials.Certificate("firebaseServiceKey.json")
 firebase_admin.initialize_app(cred)
@@ -33,7 +36,7 @@ def sentiment_analysis(text):
 def topic_classifier(prompt):
     url = "https://proxy.tune.app/chat/completions"
     headers = {
-        "Authorization": "sk-tune-LWw4p6Gu8psAwdpVfL4eLkwLtNctxp416KL",
+        "Authorization": os.getenv("TUNE_API_KEY"),
         "Content-Type": "application/json",
     }
     data = {
@@ -60,16 +63,12 @@ def topic_classifier(prompt):
 def cerebras(prompt):
     url = "https://proxy.tune.app/chat/completions"
     headers = {
-        "Authorization": "sk-tune-LWw4p6Gu8psAwdpVfL4eLkwLtNctxp416KL",
+        "Authorization": os.getenv("TUNE_API_KEY"),
         "Content-Type": "application/json",
     }
     data = {
     "temperature": 0.9,
         "messages":  [
-        {
-            "role": "system",
-            "content": "You are an expert on maximizing small businesses. You will be given metrics and reviews and such data. Sometimes you will be asked to give recommendations for the business to improve, other times you will simply summarize what you're given."
-        },
         {
             "role": "user",
             "content": prompt,

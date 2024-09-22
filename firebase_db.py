@@ -4,6 +4,11 @@ from firebase_admin import credentials
 cred = credentials.Certificate("firebaseServiceKey.json")
 firebase_admin.initialize_app(cred)
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # firestore
 from firebase_admin import firestore
 
@@ -22,7 +27,7 @@ import nltk
 def topic_classifier(prompt):
     url = "https://proxy.tune.app/chat/completions"
     headers = {
-        "Authorization": "sk-tune-LWw4p6Gu8psAwdpVfL4eLkwLtNctxp416KL",
+        "Authorization": os.getenv("TUNE_API_KEY"),
         "Content-Type": "application/json",
     }
     data = {
